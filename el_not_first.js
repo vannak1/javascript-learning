@@ -7,6 +7,9 @@
 // console.log(output); // --> [2, 3, 4]
 //
 // Starter Code :
-// function getAllElementsButFirst(array) {
-//   // your code here
-// }
+function getAllElementsButFirst(array) {
+  //remove first
+  //return rest of array
+  array.shift();
+  return array;
+}
