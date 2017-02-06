@@ -9,3 +9,12 @@
 // function isOddLength(word) {
 //   // your code here
 // }
+
+function isOddLength(word) {
+  var length = word.split("").length;
+  if (length % 2){
+    return true;
+  } else {
+    return false;
+  }
+}
