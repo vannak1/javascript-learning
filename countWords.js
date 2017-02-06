@@ -15,5 +15,6 @@ function countWords(str) {
 }
 */
 function countWords(str) {
-  // your code here
+  var arrOfWordsd = str.split(" ");
+  length = 
 }
