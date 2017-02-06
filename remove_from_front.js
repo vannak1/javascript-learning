@@ -9,6 +9,7 @@
 // console.log(output); // --> [2, 3]
 //
 // Starter Code :
-// function removeFromFront(arr) {
-//   // your code here
-// }
+function removeFromFront(arr) {
+  arr.unshift();
+  return arr;
+}
