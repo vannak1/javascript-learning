@@ -9,3 +9,8 @@
 // function isEvenLength(word) {
 //   // your code here
 // }
+
+function isEvenLength(word) {
+  var arrOfChar = word.split();
+  return arrOfChar.length;
+}
