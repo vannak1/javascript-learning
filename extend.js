@@ -27,3 +27,7 @@ function extend(obj1, obj2) {
   // your code here
 }
 */
+
+function extend(obj1, obj2) {
+  // your code here
+}
