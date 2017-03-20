@@ -14,3 +14,6 @@ function countWords(str) {
   // your code here
 }
 */
+function countWords(str) {
+  // your code here
+}
