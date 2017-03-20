@@ -15,5 +15,6 @@
 // }
 
 function calculateBillTotal(preTaxAndTipAmount) {
-  // your code here
+  var result = preTaxAndTipAmount * 1.095 * 1.15;
+  return result;
 }
